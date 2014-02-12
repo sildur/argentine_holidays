@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'argentine_holidays'
-  s.version     = '0.2'
+  s.version     = '0.3'
   s.authors     = ['Roberto Romero']
   s.email       = 'sildurin@gmail.com'
   s.homepage    = 'https://github.com/sildur/argentine_holidays'
