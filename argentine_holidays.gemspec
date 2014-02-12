@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'argentine_holidays'
-  s.version     = '0.1'
+  s.version     = '0.2'
   s.authors     = ['Roberto Romero']
   s.email       = 'sildurin@gmail.com'
-  s.homepage    = 'http://rubygems.org/gems/argentine_holidays'
+  s.homepage    = 'https://github.com/sildur/argentine_holidays'
   s.date        = '2014-02-12'
   s.summary     = 'A library to fetch argentine holidays from the official source'
   s.description = 'A library to fetch argentine holidays from the official source'
