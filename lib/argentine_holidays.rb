@@ -1,7 +1,5 @@
-require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
-require 'date'
 class ArgentineHolidays
   MONTHS = [
             'Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 
