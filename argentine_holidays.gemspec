@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
   s.name        = 'argentine_holidays'
-  s.version     = '0.4'
+  s.version     = '0.5'
   s.authors     = ['Roberto Romero']
   s.email       = 'sildurin@gmail.com'
   s.homepage    = 'https://github.com/sildur/argentine_holidays'
-  s.date        = '2014-02-12'
+  s.date        = '2015-03-13'
   s.summary     = 'A library to fetch argentine holidays from the official source'
   s.description = 'A library to fetch argentine holidays from the official source. It takes movable holidays into account'
   s.files       = ['LICENSE', 'lib/argentine_holidays.rb']
