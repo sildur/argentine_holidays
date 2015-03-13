@@ -27,12 +27,12 @@ class ArgentineHolidays
 
       # Non-movable
       tables[0].css('tr')[1..-1].each {|i| 
-        @@dates += parse_date(i.children[0].text, year)
+        @@dates += parse_date(i.children[1].text, year)
       }
 
       # Movable
       tables[1].css('tr')[1..-1].each {|i| 
-        @@dates += parse_date(i.children[2].text, year)
+        @@dates += parse_date(i.children[3].text, year)
       }
       @@dates.sort!
     end
